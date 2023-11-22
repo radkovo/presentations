@@ -1,6 +1,6 @@
 <!-- .slide: class="title" -->
 
-# Sample Presentation <!-- .element: class="r-fit-text" -->
+# Simple Presentation <!-- .element: class="r-fit-text" -->
 
 ![Square](assets/square.svg) <!-- .element: class="r-stretch" -->
 
