@@ -4,7 +4,7 @@
 
 ![Square](assets/square.svg) <!-- .element: class="r-stretch" -->
 
-Welcome to GitShow, my dear!
+Welcome to GitShow, my dears!
 
 ---
 
