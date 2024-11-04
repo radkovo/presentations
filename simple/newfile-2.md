@@ -1,2 +1,2 @@
 Ahoj člověče!
-Commit test.
+Commits test.
