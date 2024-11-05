@@ -1,2 +1,0 @@
-Ahoj člověče!
-Commit tests.
